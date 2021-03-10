@@ -1,0 +1,12 @@
+[
+    {
+        "type": "body",
+        "description": "Get up and take a three minutes walk",
+        "amount": 80
+    },
+    {
+        "type": "eye",
+        "description": "Get up and take a three minutes walk",
+        "amount": 100
+    }
+]
